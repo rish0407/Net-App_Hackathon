@@ -245,7 +245,7 @@ https://github.com/user-attachments/assets/6bff7562-4b3e-4b4f-b294-0e7e2c8fe1a8
 **Team Name:** *OCD* \
 Developed for **NetApp Data-in-Motion Hackathon 2025**\
 **Rishita Khare** (Team Leader) \
-**Anushka Aggarwal** \
+**Anushka Aggarwal** 
 
 ---
 
